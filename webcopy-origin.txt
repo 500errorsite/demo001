@@ -6,11 +6,11 @@ Uri: https://cdn.ampproject.org/v0.js
 File Name: C:\Downloaded Web Sites\demoslöt.com\v0.js
 Content Type: text/javascript
 
-Uri: https://cdn.ampproject.org/v0/amp-analytics-0.1.js
+Uri: https://cdn.ampproject.org/https://cdn.ampproject.org/v0/amp-analytics-0.1.js
 File Name: C:\Downloaded Web Sites\demoslöt.com\v0\amp-analytics-0.1.js
 Content Type: text/javascript
 
-Uri: https://cdn.ampproject.org/v0/amp-bind-0.1.js
+Uri: https://cdn.ampproject.org/https://cdn.ampproject.org/v0/amp-bind-0.1.js
 File Name: C:\Downloaded Web Sites\demoslöt.com\v0\amp-bind-0.1.js
 Content Type: text/javascript
 
@@ -18,11 +18,11 @@ Uri: https://cdn.ampproject.org/v0/amp-carousel-0.1.js
 File Name: C:\Downloaded Web Sites\demoslöt.com\v0\amp-carousel-0.1.js
 Content Type: text/javascript
 
-Uri: https://cdn.ampproject.org/v0/amp-form-0.1.js
+Uri: https://cdn.ampproject.org/https://cdn.ampproject.org/v0/amp-form-0.1.js
 File Name: C:\Downloaded Web Sites\demoslöt.com\v0\amp-form-0.1.js
 Content Type: text/javascript
 
-Uri: https://cdn.ampproject.org/v0/amp-iframe-0.1.js
+Uri: https://cdn.ampproject.org/https://cdn.ampproject.org/v0/amp-iframe-0.1.js
 File Name: C:\Downloaded Web Sites\demoslöt.com\v0\amp-iframe-0.1.js
 Content Type: text/javascript
 
@@ -34,7 +34,7 @@ Uri: https://cdn.ampproject.org/v0/amp-selector-0.1.js
 File Name: C:\Downloaded Web Sites\demoslöt.com\v0\amp-selector-0.1.js
 Content Type: text/javascript
 
-Uri: https://cdn.ampproject.org/v0/amp-sidebar-0.1.js
+Uri: https://cdn.ampproject.org/https://cdn.ampproject.org/v0/amp-sidebar-0.1.js
 File Name: C:\Downloaded Web Sites\demoslöt.com\v0\amp-sidebar-0.1.js
 Content Type: text/javascript
 
