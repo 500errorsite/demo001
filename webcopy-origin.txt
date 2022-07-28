@@ -2102,8 +2102,8 @@ Uri: https://demoslöt.com/images/banners/arena369.png
 File Name: C:\Downloaded Web Sites\demoslöt.com\images\banners\arena369.png
 Content Type: image/png
 
-Uri: https://demoslöt.com/images/banners/bom89.png
-File Name: C:\Downloaded Web Sites\demoslöt.com\images\banners\bom89.png
+Uri: https://demoslöt.com/images/banners/slot95.png
+File Name: C:\Downloaded Web Sites\demoslöt.com\images\banners\slot95.png
 Content Type: image/png
 
 Uri: https://demoslöt.com/images/banners/hepi89.png
